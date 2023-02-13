@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring-Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rayxtr/rayxtr.github.io.git](https://github.com/rayxtr/rayxtr.github.io.git)
+- 👨‍💻 All of my projects are available at [https://rayxtr.github.io/](https://rayxtr.github.io/)
 
 - 💬 Ask me about **Java, JavaScript, CSS, Html**
 
