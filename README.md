@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhusudan Amoli</h1>
 <h3 align="center">A passionate  developer from India</h3>
-<img src="https://github.com/rayxtr/rayxtr/blob/main/Madhusudandeveloper.jpg?raw=true" style="height:200px; width:500px">
+<img src="https://github.com/rayxtr/rayxtr/blob/main/Madhusudandeveloper.jpg?raw=true" style="height:350px; width:500px; margin:auto">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayxtr&label=Profile%20views&color=0e75b6&style=flat" alt="rayxtr" /> </p>
 
