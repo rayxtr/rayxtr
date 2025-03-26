@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhusudan Amoli</h1>
 <h3 align="center">ERP Consultant | Project Planning Manager @First Gulf Eskan L.L.C</h3>
-<div align="center"><img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="250"/>
+<div align="center"><img src ="https://github.com/rayxtr/rayxtr/blob/main/Madhu.gif" width="400" height="250"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayxtr&label=Profile%20views&color=0e75b6&style=flat" alt="rayxtr" /> </p>
