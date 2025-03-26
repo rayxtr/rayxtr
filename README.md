@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayxtr" alt="rayxtr" /></a> </p>
 
-- 🔭 Managing Projects Using ERP.
+ 🔭 👨‍💻 Generate Sales, Purchase, and Inventory Reports to streamline business operations.
 
-- 👨‍💻 Reports of Sales, Purchase, and Inventory to make business smooth.
+👨‍💻 Utilize Data Analytics, Dashboards, and write custom scripts in ERP to optimize processes.
 
-- 👨‍💻 Data Analytics, Dashboards, and writing scripts in ERP to make process well.
+👨‍💻 Leverage all ERP functionalities for seamless integration across various business functions.
 
-- 💬 Ask me about **Project Management, ERP, SAP, JavaScript, Python, Data analytics, Data Science, AI **
+💬 Ask me about Project Management, ERP, SAP, JavaScript, Python, Data Analytics, Data Science, and AI.
 
-- 📫 How to reach me **madhuamoli16@gmail.com**
+ 📫 How to reach me **madhuamoli16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uZQfL5Tx_-LW3r3qPfgEJ818R9DmSlXm/view?usp=drive_link](https://drive.google.com/file/d/1uZQfL5Tx_-LW3r3qPfgEJ818R9DmSlXm/view?usp=drive_link)
+ 📄 Know about my experiences [https://drive.google.com/file/d/1XPYaKRXpQ76KnXbAInDvWr2L1nXdNIMt/view?usp=drivesdk](https://drive.google.com/file/d/1XPYaKRXpQ76KnXbAInDvWr2L1nXdNIMt/view?usp=drivesdk)
 
-- ⚡ Fun fact **I once wrote a piece of code so efficient, it made my computer blush! 🤖💬 #CodeWhisperer"**
+⚡ Fun fact **I once wrote a piece of code so efficient, it made my computer blush! 🤖💬 #CodeWhisperer"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
