@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhusudan Amoli</h1>
-<h3 align="center">Software Consultant @Nano Informatics Pvt. Ltd.</h3>
+<h3 align="center">ERP Consultant | Project Planning Manager @First Gulf Eskan L.L.C</h3>
 <div align="center"><img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" height="250"/>
 </div>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayxtr" alt="rayxtr" /></a> </p>
 
-- 🔭 I’m currently working on **ERP-MOBILE APP**
+- 🔭 Managing Projects Using ERP.
 
-- 🌱 I’m currently learning **React Native**
+- 👨‍💻 Reports of Sales, Purchase, and Inventory to make business smooth.
 
-- 👨‍💻 All of my projects are available at [https://rayxtr.github.io/](https://rayxtr.github.io/)
+- 👨‍💻 Data Analytics, Dashboards, and writing scripts in ERP to make process well.
 
-- 💬 Ask me about **Java, JavaScript, CSS, HTML, Spring Boot, My SQL**
+- 💬 Ask me about **Project Management, ERP, SAP, JavaScript, Python, Data analytics, Data Science, AI **
 
 - 📫 How to reach me **madhuamoli16@gmail.com**
 
