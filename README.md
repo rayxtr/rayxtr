@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhusudan Amoli</h1>
-<h3 align="center">ERP Consultant | Project Planning Manager | Data Analytics @First Gulf Eskan L.L.C</h3>
+<h3 align="center">Software Consultant & Data Analytics (ERP)</h3>
 <div align="center"><img src ="https://github.com/rayxtr/rayxtr/blob/main/Madhu.gif" width="400" height="250"/>
 </div>
 
